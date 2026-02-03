@@ -1,0 +1,52 @@
+################# FOR CUSTOMER ######################
+Thank you for choosing KILBHA CABS, {{Customer Name}}.
+
+Below are your cab booking details:
+
+🚖 Driver Name: {{Driver Name}}
+📞 Driver Mobile Number: {{Driver Mobile Number}}
+🚘 Vehicle Number: {{Vehicle Number}}
+
+🛣️ Journey Start Date: {{Start Date of Journey}}
+🛣️ Journey End Date: {{End Date of Journey}}
+
+💰 Total Fare: ₹{{Total Fare}}
+📏 Kilometers Allowed: {{Kilometers Allowed}} KM
+⏱️ Hours Allowed: {{Number of Hours Allowed}} Hours
+
+ℹ️ Parking charges and toll gate charges are excluded from the fare.
+
+For any doubts or more information, please call 7369033447.
+Visit kilbha.com for more details.
+
+– Team KILBHA CABS
+
+
+############## FOR DRIVER #################################
+KILBHA CABS – New Trip Assigned
+
+Dear {{Driver Name}},
+You have received a new booking. Please find the trip details below:
+
+👤 Customer Name: {{Customer Name}}
+📞 Customer Mobile Number: {{Customer Mobile Number}}
+
+📍 Pickup Location: {{Pickup Location}}
+📍 Drop Location: {{Drop Location}}
+
+🛣️ Journey Start Date: {{Start Date of Journey}}
+🛣️ Journey End Date: {{End Date of Journey}}
+
+🚘 Vehicle Number: {{Vehicle Number}}
+
+💰 Total Fare: ₹{{Total Fare}}
+📏 Kilometers Allowed: {{Kilometers Allowed}} KM
+⏱️ Hours Allowed: {{Number of Hours Allowed}} Hours
+
+ℹ️ Parking charges and toll gate charges are extra and to be collected from the customer.
+
+Please contact the customer before starting the trip and reach the pickup point on time.
+
+For any support, call 7369033447.
+– Team KILBHA CABS
+🌐 Visit: kilbha.com
